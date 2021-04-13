@@ -20,7 +20,7 @@
 * 熟练jvm，熟练对其性能调优
 * 熟练掌握RabbitMQ，了解kafka，RocketMQ等消息中间件
 * 熟练使用Grpc远程服务调用，有.net后端api实战经验
-* 熟练掌握spring，springboot等框架
+* 熟练掌握spring等框架
 * 熟练掌握mybatis及plus框架
 * 熟练掌握常见设计模式
 * 熟练掌握常用的数据结构及算法
